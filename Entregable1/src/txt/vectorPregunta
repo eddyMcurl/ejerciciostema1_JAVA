@@ -1,0 +1,8 @@
+Indica cuál es el problema de utilizar un Vector con la capacidad por defecto si tuviésemos 1000 elementos para ser añadidos al mismo.
+
+Los vectores normalmente tiene un espacio limitado cada vez que le añadimos datos esta automaticamente amplia su rando,
+ guardando en memoria todos los datos y añadiendo mas espacion en un nuevo vector.
+ 
+ Es decir si tenemos 1000 elementos, en memoria se guardaria un nuevo vector con la copia de los 1000 elementos haciendo que en total tuvieramos por un mometo 
+ 2000 elementos  
+ 
