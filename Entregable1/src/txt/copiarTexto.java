@@ -12,7 +12,10 @@ public class copiarTexto {
 	
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		
+		/*
+		 * Utilizando InputStream y PrintStream, crea una función que reciba dos parámetros: "fileIn" y "fileOut".
+		 *  La tarea de la función será realizar la copia del fichero dado en el parámetro "fileIn" al fichero dado en "fileOut".
+		 */
 		/**
 		 * Par resolver este ejercicio lo quize resolver de una forma larga creando dos archivos 
 		 * en uno le inserte la letra de una cacion y cree otra nada. luego cree el metodo para que reciba dos archivos 

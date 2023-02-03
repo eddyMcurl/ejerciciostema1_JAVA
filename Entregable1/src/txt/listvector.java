@@ -6,6 +6,10 @@ public class listvector {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		/*
+		 * Crea un "Vector" del tipo de dato que prefieras, y añádele 5 elementos. Elimina el 2o y 3er elemento y muestra el resultado final.
+		 */
 		Vector<Integer> lista= new Vector<>();
 		
 		lista.add(1);//0

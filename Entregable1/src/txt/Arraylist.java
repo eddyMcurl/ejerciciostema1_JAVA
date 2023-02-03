@@ -7,6 +7,10 @@ public class Arraylist {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		/*
+		 * Crea un ArrayList de tipo String, con 4 elementos. Cópialo en una LinkedList. 
+		 * Recorre ambos mostrando únicamente el valor de cada elemento.
+		 */
 		ArrayList<String> list =new ArrayList<String>();
 		
 		list.add("juan");

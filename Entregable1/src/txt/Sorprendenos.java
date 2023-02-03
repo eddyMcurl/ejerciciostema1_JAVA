@@ -12,7 +12,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Sorprendenos {
-	
+	/*
+	 * Sorpréndenos creando un programa de tu elección que utilice InputStream, PrintStream, 
+	 * excepciones, un HashMap y un ArrayList, LinkedList o array.
+	 */
 	static ArrayList<String> listaEstudianteStrings = new ArrayList<>();
 	static File listaEstudiantesFile = new File("D:\\listaEstudiantes.txt");
 	
